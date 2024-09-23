@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CA.Blocks.Resources/1.0.0": {
+        "runtime": {
+          "CA.Blocks.Resources.dll": {}
+        },
+        "resources": {
+          "en/CA.Blocks.Resources.resources.dll": {
+            "locale": "en"
+          },
+          "fa/CA.Blocks.Resources.resources.dll": {
+            "locale": "fa"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CA.Blocks.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

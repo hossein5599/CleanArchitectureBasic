@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CA.Blocks.ProjectApi.props" />
+</Project>

@@ -1,0 +1,1289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|c:\\users\\hossein\\desktop\\1403\\myfulltrainingprojects20244\\todocruddotneteight - copy\\cleanarchitecturebasedotneteight\\ca.blocks\\ca.blocks.projectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|solutionrelative:ca.blocks\\ca.blocks.projectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.projectapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|solutionrelative:ca.blocks\\ca.blocks.projectapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.projectapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|solutionrelative:ca.blocks\\ca.blocks.projectapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.projectapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|solutionrelative:ca.blocks\\ca.blocks.projectapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.projectapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|solutionrelative:ca.blocks\\ca.blocks.projectapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.projectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|solutionrelative:ca.blocks\\ca.blocks.projectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\services\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\services\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\services\\identity\\identityresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\services\\identity\\identityresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\middlewares\\httpresponsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\middlewares\\httpresponsemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\job\\queries\\getjobtotalcount\\getjobtotalcountqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\job\\queries\\getjobtotalcount\\getjobtotalcountqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\employee\\queries\\getemployeetotalcount\\getemployeetotalcountqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\employee\\queries\\getemployeetotalcount\\getemployeetotalcountqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\employee\\queries\\getallemployees\\getallemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\employee\\queries\\getallemployees\\getallemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\employee\\commands\\updateemployee\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\employee\\commands\\updateemployee\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\employee\\commands\\deleteemployee\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\employee\\commands\\deleteemployee\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\employee\\commands\\createemployee\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\employee\\commands\\createemployee\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\middlewares\\idempotentmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\middlewares\\idempotentmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\employee\\queries\\getemployeebyid\\getemployeebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\employee\\queries\\getemployeebyid\\getemployeebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\dependencyinjections\\applicationservicesdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\dependencyinjections\\applicationservicesdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.resources\\validations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|solutionrelative:ca.blocks\\ca.blocks.resources\\validations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\employee\\commands\\createemployee\\createemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\employee\\commands\\createemployee\\createemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.resources\\validations.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|solutionrelative:ca.blocks\\ca.blocks.resources\\validations.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.resources\\messages.fa.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|solutionrelative:ca.blocks\\ca.blocks.resources\\messages.fa.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.resources\\messages.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|solutionrelative:ca.blocks\\ca.blocks.resources\\messages.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.resources\\messages.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|solutionrelative:ca.blocks\\ca.blocks.resources\\messages.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.resources\\constanttexts.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1C9DCDA3-4D00-43EE-890E-DE7561432B8D}|CA.Blocks\\CA.Blocks.Resources\\CA.Blocks.Resources.csproj|solutionrelative:ca.blocks\\ca.blocks.resources\\constanttexts.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.projectapi\\controllers\\versioningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A766696E-D8FF-4D25-BD4A-5ABCAC397C13}|CA.Blocks\\CA.Blocks.ProjectApi\\CA.Blocks.ProjectApi.csproj|solutionrelative:ca.blocks\\ca.blocks.projectapi\\controllers\\versioningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\presentation\\basecontrollers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\presentation\\basecontrollers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\dependencyinjections\\projectservicesdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\dependencyinjections\\projectservicesdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\presentation\\basecontrollers\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\presentation\\basecontrollers\\captchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\presentation\\configurations\\securityrequirementsoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\presentation\\configurations\\securityrequirementsoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\presentation\\configurations\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\presentation\\configurations\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\presentation\\configurations\\captchasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\presentation\\configurations\\captchasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\presentation\\configurations\\addacceptlanguageheaderparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\presentation\\configurations\\addacceptlanguageheaderparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\contexts\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\contexts\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\data\\applicationinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\data\\applicationinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\behaviours\\authorizationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\behaviours\\authorizationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\events\\employeecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\events\\employeecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\enums\\orderkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\enums\\orderkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\enums\\applicationlanguages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\enums\\applicationlanguages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\entities\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\entities\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\repositories\\readonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\repositories\\readonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\specification\\specificationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\specification\\specificationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.domain\\specification\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D4258F-8237-4F60-A06E-60202F72B501}|CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj|solutionrelative:ca.blocks\\ca.blocks.domain\\specification\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\interfaces\\ireadonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\interfaces\\ireadonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\repositories\\projectunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\repositories\\projectunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\repositories\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\repositories\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\repositories\\job\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\repositories\\job\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\repositories\\repositoryproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\repositories\\repositoryproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\services\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\services\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\features\\identityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\features\\identityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\features\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\features\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\employee\\queries\\getemployeebyfilter\\getemployeebyfilterqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\employee\\queries\\getemployeebyfilter\\getemployeebyfilterqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\data\\configurations\\jobconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\data\\configurations\\jobconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.infrastructure\\data\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBF12-B5FF-488C-B8D4-834B8A3FEA1B}|CA.Blocks\\CA.Blocks.Infrastructure\\CA.Blocks.Infrastructure.csproj|solutionrelative:ca.blocks\\ca.blocks.infrastructure\\data\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\viewmodels\\redirectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\viewmodels\\redirectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\employee\\commands\\createemployee\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\employee\\commands\\createemployee\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\attributes\\featuremanagerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\attributes\\featuremanagerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\mappings\\mappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\dtos\\lookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\dtos\\lookupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\dtos\\captchadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\dtos\\captchadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\interfaces\\iprojectunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\interfaces\\iprojectunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\interfaces\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\interfaces\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\interfaces\\job\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\interfaces\\job\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\interfaces\\employee\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\interfaces\\employee\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\interfaces\\user\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\interfaces\\user\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\ca.blocks\\ca.blocks.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0966-0506-4B5E-95DA-DA78D4345C0F}|CA.Blocks\\CA.Blocks.Application\\CA.Blocks.Application.csproj|solutionrelative:ca.blocks\\ca.blocks.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.ProjectApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\appsettings.Development.json",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.ProjectApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T03:01:25.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.ProjectApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.ProjectApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T03:00:57.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:50:25.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:28:50.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.ProjectApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\appsettings.json",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.ProjectApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T00:50:20.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\IdentityService.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\IdentityService.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\IdentityService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:59:21.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\JobController.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\JobController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:50:40.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdentityResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\IdentityResultExtensions.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\IdentityResultExtensions.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\IdentityResultExtensions.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\IdentityResultExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:55:35.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HttpResponseMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\HttpResponseMiddleware.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\HttpResponseMiddleware.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\HttpResponseMiddleware.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\HttpResponseMiddleware.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:52:17.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetJobTotalCountQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Job\\Queries\\GetJobTotalCount\\GetJobTotalCountQueryHandler.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Job\\Queries\\GetJobTotalCount\\GetJobTotalCountQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Job\\Queries\\GetJobTotalCount\\GetJobTotalCountQueryHandler.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Job\\Queries\\GetJobTotalCount\\GetJobTotalCountQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:51:20.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetEmployeeTotalCountQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeTotalCount\\GetEmployeeTotalCountQueryHandler.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeTotalCount\\GetEmployeeTotalCountQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeTotalCount\\GetEmployeeTotalCountQueryHandler.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeTotalCount\\GetEmployeeTotalCountQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:50:59.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllEmployeeQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeeQueryHandler.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeeQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeeQueryHandler.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeeQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:50:43.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:50:30.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:50:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:50:00.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RateLimitMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\RateLimitMiddleware.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\RateLimitMiddleware.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\RateLimitMiddleware.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\RateLimitMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:49:44.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdempotentMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\IdempotentMiddleware.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\IdempotentMiddleware.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\IdempotentMiddleware.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Middlewares\\IdempotentMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:49:29.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetEmployeeByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeById\\GetEmployeeByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeById\\GetEmployeeByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeById\\GetEmployeeByIdQueryHandler.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeById\\GetEmployeeByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:49:14.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Validations.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Validations.Designer.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Resources\\Validations.Designer.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Validations.Designer.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Resources\\Validations.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:45:52.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Validations.resx",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Validations.resx",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Resources\\Validations.resx",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Validations.resx",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Resources\\Validations.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-23T02:45:50.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateEmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeValidator.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeValidator.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:25:55.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationServicesDI.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\DependencyInjections\\ApplicationServicesDI.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\DependencyInjections\\ApplicationServicesDI.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\DependencyInjections\\ApplicationServicesDI.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\DependencyInjections\\ApplicationServicesDI.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAwwO0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:29:35.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Messages.fa.resx",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Messages.fa.resx",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Resources\\Messages.fa.resx",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Messages.fa.resx",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Resources\\Messages.fa.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-23T02:45:48.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Messages.en.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Messages.en.Designer.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Resources\\Messages.en.Designer.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Messages.en.Designer.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Resources\\Messages.en.Designer.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:45:29.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Messages.en.resx",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Messages.en.resx",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Resources\\Messages.en.resx",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\Messages.en.resx",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Resources\\Messages.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-23T02:45:26.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConstantTexts.resx",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\ConstantTexts.resx",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Resources\\ConstantTexts.resx",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Resources\\ConstantTexts.resx",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Resources\\ConstantTexts.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-23T02:45:24.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VersioningController.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\VersioningController.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\VersioningController.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\VersioningController.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.ProjectApi\\Controllers\\VersioningController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:50:43.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\BaseControllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Presentation\\BaseControllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\BaseControllers\\BaseController.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Presentation\\BaseControllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:22:55.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProjectServicesDI.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\DependencyInjections\\ProjectServicesDI.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\DependencyInjections\\ProjectServicesDI.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\DependencyInjections\\ProjectServicesDI.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\DependencyInjections\\ProjectServicesDI.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:27:32.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CaptchaController.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\BaseControllers\\CaptchaController.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Presentation\\BaseControllers\\CaptchaController.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\BaseControllers\\CaptchaController.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Presentation\\BaseControllers\\CaptchaController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:23:06.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\CurrentUser.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\CurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:11:37.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SecurityRequirementsOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\SecurityRequirementsOperationFilter.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\SecurityRequirementsOperationFilter.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\SecurityRequirementsOperationFilter.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\SecurityRequirementsOperationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:12:09.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CaptchaSettings.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\CaptchaSettings.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\CaptchaSettings.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\CaptchaSettings.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\CaptchaSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:10:57.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddAcceptLanguageHeaderParameter.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\AddAcceptLanguageHeaderParameter.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\AddAcceptLanguageHeaderParameter.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\AddAcceptLanguageHeaderParameter.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Presentation\\Configurations\\AddAcceptLanguageHeaderParameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:10:14.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Data\\ApplicationInitializer.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Data\\ApplicationInitializer.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Data\\ApplicationInitializer.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Data\\ApplicationInitializer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:57:11.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmployeeCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Events\\EmployeeCreatedEvent.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Events\\EmployeeCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Events\\EmployeeCreatedEvent.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Events\\EmployeeCreatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:48:48.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderKind.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Enums\\OrderKind.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Enums\\OrderKind.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Enums\\OrderKind.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Enums\\OrderKind.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:47:10.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Enums\\Gender.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:47:07.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProjectDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Contexts\\ProjectDBContext.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Contexts\\ProjectDBContext.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Contexts\\ProjectDBContext.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Contexts\\ProjectDBContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:50:11.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationLanguages.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Enums\\ApplicationLanguages.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Enums\\ApplicationLanguages.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Enums\\ApplicationLanguages.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Enums\\ApplicationLanguages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:47:04.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Constants\\Roles.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Constants\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:46:33.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthorizationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Behaviours\\AuthorizationBehaviour.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Behaviours\\AuthorizationBehaviour.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Behaviours\\AuthorizationBehaviour.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Behaviours\\AuthorizationBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:41:47.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:42:19.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Common\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Common\\BaseAuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:41:27.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SpecificationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Specification\\SpecificationExtensions.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Specification\\SpecificationExtensions.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Specification\\SpecificationExtensions.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Specification\\SpecificationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:14:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Entities\\Employee\\Employee.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Entities\\Employee\\Employee.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Entities\\Employee\\Employee.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Entities\\Employee\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:32:36.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IReadOnlyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IReadOnlyRepository.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IReadOnlyRepository.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IReadOnlyRepository.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IReadOnlyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:17:12.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Specification.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Specification\\Specification.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Domain\\Specification\\Specification.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\Specification\\Specification.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Domain\\Specification\\Specification.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:13:13.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReadOnlyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\ReadOnlyRepository.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\ReadOnlyRepository.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\ReadOnlyRepository.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\ReadOnlyRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:03:13.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Employee\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:07:42.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Job\\JobRepository.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Job\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Job\\JobRepository.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Job\\JobRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:04:27.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:07:14.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RepositoryProperties.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\RepositoryProperties.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\RepositoryProperties.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\RepositoryProperties.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\RepositoryProperties.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:04:11.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProjectUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\ProjectUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\ProjectUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\ProjectUnitOfWork.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\ProjectUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:50:53.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:56:30.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Services\\Identity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:41:04.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:08:24.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IIdentityService.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IIdentityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:02:18.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IdentityResult.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Features\\IdentityResult.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Features\\IdentityResult.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Features\\IdentityResult.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Features\\IdentityResult.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:01:07.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Features\\Result.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Features\\Result.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Features\\Result.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Features\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:52:28.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GetEmployeeByFilterQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeByFilter\\GetEmployeeByFilterQueryHandler.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeByFilter\\GetEmployeeByFilterQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeByFilter\\GetEmployeeByFilterQueryHandler.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Employee\\Queries\\GetEmployeeByFilter\\GetEmployeeByFilterQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:58:04.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "JobConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Data\\Configurations\\JobConfiguration.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Data\\Configurations\\JobConfiguration.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Data\\Configurations\\JobConfiguration.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Data\\Configurations\\JobConfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:34:55.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Data\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:33:21.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\GlobalExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:28:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RedirectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\ViewModels\\RedirectViewModel.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\ViewModels\\RedirectViewModel.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\ViewModels\\RedirectViewModel.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\ViewModels\\RedirectViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:28:08.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Employee\\Commands\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:24:36.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Attributes\\AuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:23:30.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FeatureManagerAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Attributes\\FeatureManagerAttribute.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Attributes\\FeatureManagerAttribute.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Attributes\\FeatureManagerAttribute.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Attributes\\FeatureManagerAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:23:12.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CaptchaDto.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Dtos\\CaptchaDto.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Dtos\\CaptchaDto.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Dtos\\CaptchaDto.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Dtos\\CaptchaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:12:47.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "LookupDto.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Dtos\\LookupDto.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Dtos\\LookupDto.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Dtos\\LookupDto.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Dtos\\LookupDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:12:46.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Mappings\\MappingExtensions.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Mappings\\MappingExtensions.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Mappings\\MappingExtensions.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Mappings\\MappingExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:10:54.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IProjectUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IProjectUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IProjectUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IProjectUnitOfWork.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IProjectUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:06:53.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:49:31.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:47:21.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ICurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\ICurrentUser.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\ICurrentUser.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\ICurrentUser.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\ICurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:46:50.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\Job\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\Job\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\Job\\IJobRepository.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\Job\\IJobRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:45:00.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\Employee\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\Employee\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\Employee\\IEmployeeRepository.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\Employee\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:44:19.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\User\\IUser.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\User\\IUser.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\User\\IUser.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Interfaces\\User\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:43:19.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "CA.Blocks\\CA.Blocks.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "CA.Blocks\\CA.Blocks.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:37:33.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+2024-09-12 19:29:59.946 +02:00 [INF] Executed DbCommand (456ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [ProjectDB];
+2024-09-12 19:30:00.742 +02:00 [INF] Executed DbCommand (501ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [ProjectDB] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2024-09-12 19:30:00.808 +02:00 [INF] Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 19:30:01.109 +02:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2024-09-12 19:30:01.127 +02:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 19:30:01.247 +02:00 [INF] Executed DbCommand (112ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-09-12 19:30:01.287 +02:00 [INF] Executed DbCommand (33ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-09-12 19:30:01.333 +02:00 [INF] Applying migration '20240912172834_init'.
+2024-09-12 19:30:01.573 +02:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Employees] (
+    [Id] int NOT NULL IDENTITY,
+    [FirstName] nvarchar(max) NOT NULL,
+    [LastName] nvarchar(max) NOT NULL,
+    [Age] int NOT NULL,
+    [Gender] int NOT NULL,
+    [Address] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [CreatedBy] nvarchar(max) NOT NULL,
+    [LastModifiedAt] datetime2 NULL,
+    [LastModifiedBy] nvarchar(max) NOT NULL,
+    [IsDeleted] bit NOT NULL,
+    [DeletedAt] datetime2 NULL,
+    [DeletedBy] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Employees] PRIMARY KEY ([Id])
+);
+2024-09-12 19:30:01.582 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Jobs] (
+    [Id] int NOT NULL IDENTITY,
+    [Description] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [CreatedBy] nvarchar(max) NOT NULL,
+    [LastModifiedAt] datetime2 NULL,
+    [LastModifiedBy] nvarchar(max) NOT NULL,
+    [IsDeleted] bit NOT NULL,
+    [DeletedAt] datetime2 NULL,
+    [DeletedBy] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Jobs] PRIMARY KEY ([Id])
+);
+2024-09-12 19:30:01.588 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20240912172834_init', N'8.0.8');
+2024-09-12 19:32:26.989 +02:00 [INF] Executed DbCommand (37ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 19:32:27.124 +02:00 [INF] Executed DbCommand (24ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-09-12 19:32:27.135 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 19:32:27.142 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-09-12 19:32:27.189 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-09-12 19:32:27.225 +02:00 [INF] No migrations were applied. The database is already up to date.
+2024-09-12 19:33:34.127 +02:00 [INF] Executed DbCommand (47ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 19:33:34.329 +02:00 [INF] Executed DbCommand (29ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-09-12 19:33:34.343 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 19:33:34.351 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-09-12 19:33:34.421 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-09-12 19:33:34.477 +02:00 [INF] No migrations were applied. The database is already up to date.
+2024-09-12 19:43:11.364 +02:00 [INF] Executed DbCommand (53ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 19:43:11.521 +02:00 [INF] Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-09-12 19:43:11.540 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 19:43:11.555 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-09-12 19:43:11.615 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-09-12 19:43:11.659 +02:00 [INF] No migrations were applied. The database is already up to date.
+2024-09-12 19:43:12.311 +02:00 [INF] User profile is available. Using 'C:\Users\hossein\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-12 19:43:13.039 +02:00 [INF] Now listening on: http://localhost:5253
+2024-09-12 19:43:13.066 +02:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2024-09-12 19:43:13.070 +02:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-09-12 19:43:13.176 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-12 19:43:13.185 +02:00 [INF] Hosting environment: Development
+2024-09-12 19:43:13.189 +02:00 [INF] Content root path: C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.ProjectApi
+2024-09-12 19:43:13.194 +02:00 [INF] Server desktop-2uc0310:28748:7a1ac12b successfully announced in 23.9691 ms
+2024-09-12 19:43:13.219 +02:00 [INF] Server desktop-2uc0310:28748:7a1ac12b is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-09-12 19:43:13.482 +02:00 [INF] Server desktop-2uc0310:28748:7a1ac12b all the dispatchers started
+2024-09-12 19:43:16.285 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/weatherforecast - null null
+2024-09-12 19:43:16.841 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-09-12 19:43:17.578 +02:00 [INF] Executing endpoint 'CA.Blocks.ProjectApi.Controllers.WeatherForecastController.Get (CA.Blocks.ProjectApi)'
+2024-09-12 19:43:17.705 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[CA.Blocks.ProjectApi.WeatherForecast] Get() on controller CA.Blocks.ProjectApi.Controllers.WeatherForecastController (CA.Blocks.ProjectApi).
+2024-09-12 19:43:17.806 +02:00 [INF] Executing ObjectResult, writing value of type 'CA.Blocks.ProjectApi.WeatherForecast[]'.
+2024-09-12 19:43:18.417 +02:00 [INF] Executed action CA.Blocks.ProjectApi.Controllers.WeatherForecastController.Get (CA.Blocks.ProjectApi) in 689.4346ms
+2024-09-12 19:43:18.428 +02:00 [INF] Executed endpoint 'CA.Blocks.ProjectApi.Controllers.WeatherForecastController.Get (CA.Blocks.ProjectApi)'
+2024-09-12 19:43:18.493 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/weatherforecast - 200 null application/json; charset=utf-8 2228.9991ms
+2024-09-12 19:43:18.628 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/favicon.ico - null null
+2024-09-12 19:43:18.718 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/favicon.ico - 404 0 null 90.4207ms
+2024-09-12 19:43:18.797 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5253/favicon.ico, Response status code: 404
+2024-09-12 19:43:23.932 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/ - null null
+2024-09-12 19:43:23.966 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/ - 404 0 null 34.2249ms
+2024-09-12 19:43:24.003 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5253/, Response status code: 404
+2024-09-12 19:45:45.777 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger - null null
+2024-09-12 19:45:45.818 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger - 301 0 null 40.4003ms
+2024-09-12 19:45:45.830 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/index.html - null null
+2024-09-12 19:45:46.029 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/index.html - 200 null text/html;charset=utf-8 199.049ms
+2024-09-12 19:45:46.129 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/swagger-ui.css - null null
+2024-09-12 19:45:46.146 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/swagger-ui-bundle.js - null null
+2024-09-12 19:45:46.166 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/_vs/browserLink - null null
+2024-09-12 19:45:46.163 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/swagger-ui-standalone-preset.js - null null
+2024-09-12 19:45:46.173 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-12 19:45:46.263 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 90.8777ms
+2024-09-12 19:45:46.315 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-09-12 19:45:46.357 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-09-12 19:45:46.493 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/swagger-ui.css - 200 144929 text/css 360.591ms
+2024-09-12 19:45:46.498 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/swagger-ui-standalone-preset.js - 200 312163 text/javascript 335.1383ms
+2024-09-12 19:45:46.543 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-09-12 19:45:46.561 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/swagger-ui-bundle.js - 200 1061536 text/javascript 416.5127ms
+2024-09-12 19:45:46.570 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/_vs/browserLink - 200 null text/javascript; charset=UTF-8 404.0853ms
+2024-09-12 19:45:47.159 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/favicon-16x16.png - null null
+2024-09-12 19:45:47.184 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2024-09-12 19:45:47.285 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/favicon-16x16.png - 200 665 image/png 126.1978ms
+2024-09-12 19:45:47.364 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/v1/swagger.json - null null
+2024-09-12 19:45:48.276 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 911.816ms
+2024-09-12 20:41:33.063 +02:00 [INF] Executed DbCommand (38ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 20:41:33.258 +02:00 [INF] Executed DbCommand (31ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-09-12 20:41:33.269 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-09-12 20:41:33.276 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-09-12 20:41:33.348 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-09-12 20:41:33.395 +02:00 [INF] No migrations were applied. The database is already up to date.
+2024-09-12 20:41:33.936 +02:00 [INF] User profile is available. Using 'C:\Users\hossein\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-12 20:41:34.555 +02:00 [INF] Now listening on: http://localhost:5253
+2024-09-12 20:41:34.621 +02:00 [INF] Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2024-09-12 20:41:34.627 +02:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-09-12 20:41:34.769 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-12 20:41:34.775 +02:00 [INF] Hosting environment: Development
+2024-09-12 20:41:34.784 +02:00 [INF] Content root path: C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.ProjectApi
+2024-09-12 20:41:34.785 +02:00 [INF] Server desktop-2uc0310:27140:0c408c55 successfully announced in 22.1619 ms
+2024-09-12 20:41:34.806 +02:00 [INF] Server desktop-2uc0310:27140:0c408c55 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-09-12 20:41:35.645 +02:00 [INF] Server desktop-2uc0310:27140:0c408c55 all the dispatchers started
+2024-09-12 20:41:40.297 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/weatherforecast - null null
+2024-09-12 20:41:43.146 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-09-12 20:41:43.696 +02:00 [INF] Executing endpoint 'CA.Blocks.ProjectApi.Controllers.WeatherForecastController.Get (CA.Blocks.ProjectApi)'
+2024-09-12 20:41:43.790 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[CA.Blocks.ProjectApi.WeatherForecast] Get() on controller CA.Blocks.ProjectApi.Controllers.WeatherForecastController (CA.Blocks.ProjectApi).
+2024-09-12 20:41:43.928 +02:00 [INF] Executing ObjectResult, writing value of type 'CA.Blocks.ProjectApi.WeatherForecast[]'.
+2024-09-12 20:41:44.381 +02:00 [INF] Executed action CA.Blocks.ProjectApi.Controllers.WeatherForecastController.Get (CA.Blocks.ProjectApi) in 498.0195ms
+2024-09-12 20:41:44.388 +02:00 [INF] Executed endpoint 'CA.Blocks.ProjectApi.Controllers.WeatherForecastController.Get (CA.Blocks.ProjectApi)'
+2024-09-12 20:41:44.464 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/weatherforecast - 200 null application/json; charset=utf-8 4186.2977ms
+2024-09-12 20:41:44.567 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/favicon.ico - null null
+2024-09-12 20:41:44.634 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/favicon.ico - 499 null null 67.2051ms
+2024-09-12 20:41:45.225 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5253/favicon.ico, Response status code: 499
+2024-09-12 20:41:52.213 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/ - null null
+2024-09-12 20:41:52.257 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/ - 301 0 null 44.2772ms
+2024-09-12 20:41:52.279 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/index.html - null null
+2024-09-12 20:41:52.513 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/index.html - 200 null text/html;charset=utf-8 235.0924ms
+2024-09-12 20:41:52.681 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-12 20:41:52.694 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/swagger-ui.css - null null
+2024-09-12 20:41:52.857 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 176.685ms
+2024-09-12 20:41:52.747 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/_vs/browserLink - null null
+2024-09-12 20:41:52.930 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-09-12 20:41:52.939 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/swagger-ui.css - 499 144929 text/css 245.1567ms
+2024-09-12 20:41:53.113 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/_vs/browserLink - 200 null text/javascript; charset=UTF-8 365.7742ms
+2024-09-12 20:41:53.396 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/favicon-16x16.png - null null
+2024-09-12 20:41:53.439 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2024-09-12 20:41:53.448 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/favicon-16x16.png - 499 665 image/png 52.6011ms
+2024-09-12 20:41:53.606 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5253/swagger/v1/swagger.json - null null
+2024-09-12 20:41:54.426 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5253/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 820.1632ms

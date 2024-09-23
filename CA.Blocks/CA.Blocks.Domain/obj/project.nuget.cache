@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrnLhDWj59DAG+FuRa3nLdeOKujIuwYCrl9m5xaI+HYf9RoZXnKeolZ/EZ0yZQcZQ9pm89TQx9pI8aTNcfXxSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hossein\\Desktop\\1403\\MyFullTrainingProjects20244\\TodoCrudDotnetEight - Copy\\CleanArchitectureBaseDotnetEight\\CA.Blocks\\CA.Blocks.Domain\\CA.Blocks.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hossein\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\hossein\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\hossein\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

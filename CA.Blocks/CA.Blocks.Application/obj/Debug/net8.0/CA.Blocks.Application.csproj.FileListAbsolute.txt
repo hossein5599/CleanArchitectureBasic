@@ -1,0 +1,38 @@
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Application.deps.json
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Application.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Application.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Domain.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Domain.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Resources.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\en\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\fa\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.csproj.AssemblyReference.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.AssemblyInfoInputs.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.AssemblyInfo.cs
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.csproj.CoreCompileInputs.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Block.3BCE25AB.Up2Date
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\refint\CA.Blocks.Application.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\ref\CA.Blocks.Application.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Application.deps.json
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Application.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Application.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Domain.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Domain.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\CA.Blocks.Resources.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\en\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\bin\Debug\net8.0\fa\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.csproj.AssemblyReference.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.AssemblyInfoInputs.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.AssemblyInfo.cs
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.csproj.CoreCompileInputs.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Block.3BCE25AB.Up2Date
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\refint\CA.Blocks.Application.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\CA.Blocks.Application.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Application\obj\Debug\net8.0\ref\CA.Blocks.Application.dll

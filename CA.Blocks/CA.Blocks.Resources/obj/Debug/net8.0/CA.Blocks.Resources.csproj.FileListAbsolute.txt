@@ -1,0 +1,40 @@
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\CA.Blocks.Resources.deps.json
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\CA.Blocks.Resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\CA.Blocks.Resources.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\en\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\fa\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.ConstantTexts.resources
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.Validations.resources
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.Messages.en.resources
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.Messages.fa.resources
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.csproj.GenerateResource.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.AssemblyInfoInputs.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.AssemblyInfo.cs
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.csproj.CoreCompileInputs.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\en\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\fa\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\refint\CA.Blocks.Resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\ref\CA.Blocks.Resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\CA.Blocks.Resources.deps.json
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\CA.Blocks.Resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\CA.Blocks.Resources.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\en\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\bin\Debug\net8.0\fa\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.ConstantTexts.resources
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.Validations.resources
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.Messages.en.resources
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.Messages.fa.resources
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.csproj.GenerateResource.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.AssemblyInfoInputs.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.AssemblyInfo.cs
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.csproj.CoreCompileInputs.cache
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\en\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\fa\CA.Blocks.Resources.resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\refint\CA.Blocks.Resources.dll
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\CA.Blocks.Resources.pdb
+C:\Users\hossein\Desktop\1403\MyFullTrainingProjects20244\TodoCrudDotnetEight - Copy\CleanArchitectureBaseDotnetEight\CA.Blocks\CA.Blocks.Resources\obj\Debug\net8.0\ref\CA.Blocks.Resources.dll
