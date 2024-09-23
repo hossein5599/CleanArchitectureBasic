@@ -1,7 +1,7 @@
 # CleanArchitectureBaseDotnetEight
 
  
-Welcome to My Basic project focused on implementing Clean Architecture On Dotnet Lately 8 and various Design Patterns to create a robust and scalable application framework. This project serves as a comprehensive guide for developers looking to enhance their software design skills while leveraging modern technologies.
+Welcome to My Basic project focused on implementing Clean Architecture On Dotnet Lately 8 and various Design Patterns to create a robust and scalable application framework.
 
 ## Key Features:
 
